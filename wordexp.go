@@ -1,3 +1,6 @@
+/*
+Package wordexp exposes the libc function wordexp(3)
+*/
 package wordexp
 
 /*
