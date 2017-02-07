@@ -1,6 +1,7 @@
 [![Travis CI](https://travis-ci.org/frobware/go-wordexp.svg?branch=master)](https://travis-ci.org/frobware/go-wordexp)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/frobware/go-wordexp)
 [![Coverage Status](http://codecov.io/github/frobware/go-wordexp/coverage.svg?branch=master)](http://codecov.io/github/frobware/go-wordexp?branch=master)
+[![Report Card](https://goreportcard.com/badge/github.com/frobware/go-wordexp)](https://goreportcard.com/report/github.com/frobware/go-wordexp)
 
 # go-wordexp
 
